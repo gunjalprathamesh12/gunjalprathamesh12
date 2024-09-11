@@ -1,6 +1,5 @@
 # 💫 About Me:
-<br><br>
-
+<br>
 👋 Hi, I’m @Gunjal-Prathamesh, but you can call me Prathamesh!  
 - ✨ Year of coming into the world: [your birth year]  
 - 👀 I’m interested in 'Coding' | 'Web Development' | 'AI-ML' | and much more.  
