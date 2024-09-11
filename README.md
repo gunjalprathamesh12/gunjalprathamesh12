@@ -7,8 +7,7 @@
 - 🌱 I’m currently learning Information Technology with a focus on coding.  
 - 💞️ I’m looking to collaborate on innovative projects that combine web development, AI, and machine learning to make a real-world impact and push tech boundaries.  
 - 📫 How to reach me:  
-   - Phone: [your phone number]  
-   - Email: [your email]  
+   - Email: gunjalprathamesh1212@gmail.com  
 - 😄 Pronouns: he/him | always excited to learn new tech skills and programming tricks!  
 - ⚡ Fun fact: Besides coding, I enjoy [your hobby/passion] and exploring new things! I'm constantly diving into the latest tech trends and improving my coding game! ✔  
 
