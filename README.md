@@ -1,5 +1,16 @@
 # 💫 About Me:
-<br><br>👋 Hi, I’m @gunjalprathamesh12<br>👀 I’m interested in 'Coding' | 'Web Development'...<br>🌱 I’m currently learning in Information Technology 👩‍💻<br>📫 How to reach me ...<br>Email:- gunjalprathamesh1212@gmail.com
+<br><br>
+
+👋 Hi, I’m @Gunjal-Prathamesh, but you can call me Prathamesh!  
+- ✨ Year of coming into the world: [your birth year]  
+- 👀 I’m interested in 'Coding' | 'Web Development' | 'AI-ML' | and much more.  
+- 🌱 I’m currently learning Information Technology with a focus on coding.  
+- 💞️ I’m looking to collaborate on innovative projects that combine web development, AI, and machine learning to make a real-world impact and push tech boundaries.  
+- 📫 How to reach me:  
+   - Phone: [your phone number]  
+   - Email: [your email]  
+- 😄 Pronouns: he/him | always excited to learn new tech skills and programming tricks!  
+- ⚡ Fun fact: Besides coding, I enjoy [your hobby/passion] and exploring new things! I'm constantly diving into the latest tech trends and improving my coding game! ✔  
 
 
 ## 🌐 Socials:
