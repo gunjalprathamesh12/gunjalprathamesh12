@@ -1,15 +1,12 @@
 # 💫 About Me:
 <br>
-👋 Hi, I’m @Gunjal-Prathamesh, but you can call me Prathamesh!  
-- ✨ Year of coming into the world: [your birth year]  
-- 👀 I’m interested in 'Coding' | 'Web Development' | 'AI-ML' | and much more.  
+👋 Hi, I’m @GunjalPrathamesh !  
+- 👀 I’m interested in 'Coding' | 'Web Development' | 'AI-ML' |  
 - 🌱 I’m currently learning Information Technology with a focus on coding.  
 - 💞️ I’m looking to collaborate on innovative projects that combine web development, AI, and machine learning to make a real-world impact and push tech boundaries.  
 - 📫 How to reach me:  
-   - Email: gunjalprathamesh1212@gmail.com  
-- 😄 Pronouns: he/him | always excited to learn new tech skills and programming tricks!  
-- ⚡ Fun fact: Besides coding, I enjoy [your hobby/passion] and exploring new things! I'm constantly diving into the latest tech trends and improving my coding game! ✔  
-
+   - Email: gunjalprathamesh1212@gmail.com   
+- ⚡ Fun fact: Besides coding, I enjoy Gaming and exploring new things! I'm constantly diving into the latest tech trends and improving my coding game! ✔  
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/gunjal_pratamesh_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/prathamesh-gunjal-8828b0269?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@prathameshg1212) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@@prathmeshgunjal) 
