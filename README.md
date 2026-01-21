@@ -2,7 +2,7 @@
 <br>
 👋 Hi, I’m @GunjalPrathamesh !  
 - 👀 I’m interested in 'Coding' | 'Web Development' | 'AI-ML' |  
-- 🌱 I’m currently learning Information Technology with a focus on coding.  
+- 🌱 I’m currently learning Computer Engineering with a focus on coding.  
 - 💞️ I’m looking to collaborate on innovative projects that combine web development, AI, and machine learning to make a real-world impact and push tech boundaries.  
 - 📫 How to reach me:  
    - Email: gunjalprathamesh1212@gmail.com   
